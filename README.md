@@ -1,7 +1,6 @@
-# HeyThereLupita
-#My first repository in Github
+
 #I would like for this fruit dictionary to be more functional in Python.
-#here is the code. 
+
 fruit = { 'Apple' :'This fruit contains about 81 calories, 21.1 carbs, and has about .1 fat.',
          'Apricot' : 'This fruit contains about 17 calories, 3.9 carbs and has about .1 fat.',
         'Banana' : 'This fruit contains about 105 calories, 26.7 carbs and has about .6 fat.', 
